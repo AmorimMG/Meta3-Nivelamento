@@ -8,7 +8,7 @@ namespace Ex2_Estrutura_Condicional
 {
     class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
             int opcao;
             do
@@ -59,6 +59,39 @@ namespace Ex2_Estrutura_Condicional
             } while (opcao != 0);
 
             return 0;
+        }
+
+        static void Exercicio1()
+        {
+
+        }
+        static void Exercicio2()
+        {
+
+        }
+        static void Exercicio3()
+        {
+
+        }
+        static void Exercicio4()
+        {
+
+        }
+        static void Exercicio5()
+        {
+
+        }
+        static void Exercicio6()
+        {
+
+        }
+        static void Exercicio7()
+        {
+
+        }
+        static void Exercicio8()
+        {
+
         }
     }
 }
