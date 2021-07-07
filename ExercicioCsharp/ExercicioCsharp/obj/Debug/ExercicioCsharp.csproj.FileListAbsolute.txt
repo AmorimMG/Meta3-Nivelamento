@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ExercicioCsharp\ExercicioCsharp\bin\Debug\ExercicioCsharp.exe.config
+C:\Users\User\source\repos\ExercicioCsharp\ExercicioCsharp\bin\Debug\ExercicioCsharp.exe
+C:\Users\User\source\repos\ExercicioCsharp\ExercicioCsharp\bin\Debug\ExercicioCsharp.pdb
+C:\Users\User\source\repos\ExercicioCsharp\ExercicioCsharp\obj\Debug\ExercicioCsharp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ExercicioCsharp\ExercicioCsharp\obj\Debug\ExercicioCsharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExercicioCsharp\ExercicioCsharp\obj\Debug\ExercicioCsharp.exe
+C:\Users\User\source\repos\ExercicioCsharp\ExercicioCsharp\obj\Debug\ExercicioCsharp.pdb

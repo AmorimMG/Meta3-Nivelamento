@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Nivelamento\Ex1-Estrutura-Sequencial\Ex1-Estrutura-Sequencial\bin\Debug\Ex1-Estrutura-Sequencial.exe.config
+C:\Users\User\source\repos\Nivelamento\Ex1-Estrutura-Sequencial\Ex1-Estrutura-Sequencial\bin\Debug\Ex1-Estrutura-Sequencial.exe
+C:\Users\User\source\repos\Nivelamento\Ex1-Estrutura-Sequencial\Ex1-Estrutura-Sequencial\bin\Debug\Ex1-Estrutura-Sequencial.pdb
+C:\Users\User\source\repos\Nivelamento\Ex1-Estrutura-Sequencial\Ex1-Estrutura-Sequencial\obj\Debug\Ex1-Estrutura-Sequencial.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nivelamento\Ex1-Estrutura-Sequencial\Ex1-Estrutura-Sequencial\obj\Debug\Ex1-Estrutura-Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nivelamento\Ex1-Estrutura-Sequencial\Ex1-Estrutura-Sequencial\obj\Debug\Ex1-Estrutura-Sequencial.exe
+C:\Users\User\source\repos\Nivelamento\Ex1-Estrutura-Sequencial\Ex1-Estrutura-Sequencial\obj\Debug\Ex1-Estrutura-Sequencial.pdb
