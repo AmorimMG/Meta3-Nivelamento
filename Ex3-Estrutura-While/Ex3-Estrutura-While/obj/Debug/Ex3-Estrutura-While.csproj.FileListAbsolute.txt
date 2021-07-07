@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex3-Estrutura-While\Ex3-Estrutura-While\bin\Debug\Ex3-Estrutura-While.exe.config
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex3-Estrutura-While\Ex3-Estrutura-While\bin\Debug\Ex3-Estrutura-While.exe
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex3-Estrutura-While\Ex3-Estrutura-While\bin\Debug\Ex3-Estrutura-While.pdb
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex3-Estrutura-While\Ex3-Estrutura-While\obj\Debug\Ex3-Estrutura-While.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex3-Estrutura-While\Ex3-Estrutura-While\obj\Debug\Ex3-Estrutura-While.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex3-Estrutura-While\Ex3-Estrutura-While\obj\Debug\Ex3-Estrutura-While.exe
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex3-Estrutura-While\Ex3-Estrutura-While\obj\Debug\Ex3-Estrutura-While.pdb

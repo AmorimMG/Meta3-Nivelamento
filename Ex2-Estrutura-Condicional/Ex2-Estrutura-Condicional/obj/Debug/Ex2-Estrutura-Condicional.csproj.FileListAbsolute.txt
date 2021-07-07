@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex2-Estrutura-Condicional\Ex2-Estrutura-Condicional\bin\Debug\Ex2-Estrutura-Condicional.exe.config
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex2-Estrutura-Condicional\Ex2-Estrutura-Condicional\bin\Debug\Ex2-Estrutura-Condicional.exe
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex2-Estrutura-Condicional\Ex2-Estrutura-Condicional\bin\Debug\Ex2-Estrutura-Condicional.pdb
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex2-Estrutura-Condicional\Ex2-Estrutura-Condicional\obj\Debug\Ex2-Estrutura-Condicional.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex2-Estrutura-Condicional\Ex2-Estrutura-Condicional\obj\Debug\Ex2-Estrutura-Condicional.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex2-Estrutura-Condicional\Ex2-Estrutura-Condicional\obj\Debug\Ex2-Estrutura-Condicional.exe
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex2-Estrutura-Condicional\Ex2-Estrutura-Condicional\obj\Debug\Ex2-Estrutura-Condicional.pdb

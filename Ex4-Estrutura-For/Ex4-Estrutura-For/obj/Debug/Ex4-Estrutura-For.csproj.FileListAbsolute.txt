@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex4-Estrutura-For\Ex4-Estrutura-For\bin\Debug\Ex4-Estrutura-For.exe.config
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex4-Estrutura-For\Ex4-Estrutura-For\bin\Debug\Ex4-Estrutura-For.exe
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex4-Estrutura-For\Ex4-Estrutura-For\bin\Debug\Ex4-Estrutura-For.pdb
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex4-Estrutura-For\Ex4-Estrutura-For\obj\Debug\Ex4-Estrutura-For.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex4-Estrutura-For\Ex4-Estrutura-For\obj\Debug\Ex4-Estrutura-For.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex4-Estrutura-For\Ex4-Estrutura-For\obj\Debug\Ex4-Estrutura-For.exe
+C:\Users\User\source\repos\Nivelamento\Meta3-Nivelamento\Ex4-Estrutura-For\Ex4-Estrutura-For\obj\Debug\Ex4-Estrutura-For.pdb

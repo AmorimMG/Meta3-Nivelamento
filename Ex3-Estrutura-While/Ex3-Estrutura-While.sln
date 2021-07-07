@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-Estrutura-While", "Ex3-Estrutura-While\Ex3-Estrutura-While.csproj", "{A3073E3E-8671-4B80-A5EF-582E78AA49AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3073E3E-8671-4B80-A5EF-582E78AA49AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3073E3E-8671-4B80-A5EF-582E78AA49AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3073E3E-8671-4B80-A5EF-582E78AA49AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3073E3E-8671-4B80-A5EF-582E78AA49AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A4619F5-49A8-499B-A08A-B264B2491E54}
+	EndGlobalSection
+EndGlobal

@@ -19,8 +19,8 @@ namespace Ex1_Estrutura_Sequencial
                 Console.WriteLine("\n2 - Exercicio 2");
                 Console.WriteLine("\n3 - Exercicio 3");
                 Console.WriteLine("\n4 - Exercicio 4");
-                Console.WriteLine("\n4 - Exercicio 5");
-                Console.WriteLine("\n4 - Exercicio 6");
+                Console.WriteLine("\n5 - Exercicio 5");
+                Console.WriteLine("\n6 - Exercicio 6");
                 Console.WriteLine("\n0 - Sair \n");
 
                 opcao = int.Parse(Console.ReadLine());
